@@ -1,4 +1,5 @@
-##SteamAPI-Parser is a small php file that you can import using the require or include functions in PHP!
+## SteamAPI-Parser 
+SteamAPI-Parser is a small php file that you can import using the require or include functions in PHP!
 
 this file will make an array with your steam games (or someone else's games) using the SteamAPI
 
